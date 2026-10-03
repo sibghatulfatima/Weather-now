@@ -1,0 +1,6 @@
+{
+  "name": "WeatherNow",
+  "description": "Real-time weather forecast app with 5-day forecasts, location detection, city search, and condition details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
